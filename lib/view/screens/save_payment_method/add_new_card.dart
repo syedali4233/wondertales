@@ -56,7 +56,7 @@ class _newcardState extends State<newcard> {
                 Align(
                   alignment: Alignment.topLeft,
                   child: Text(
-                    'Card Name',
+                    'Card Names',
                     style: GoogleFonts.poppins(
                         textStyle: TextStyle(
                             fontWeight: FontWeight.w700, fontSize: 20)),
